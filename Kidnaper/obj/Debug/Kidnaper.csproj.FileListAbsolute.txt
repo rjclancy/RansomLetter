@@ -1,0 +1,6 @@
+C:\Users\ronan\Desktop\Rich_Applictions\Kidnaper\Kidnaper\bin\Debug\Kidnaper.exe.config
+C:\Users\ronan\Desktop\Rich_Applictions\Kidnaper\Kidnaper\bin\Debug\Kidnaper.exe
+C:\Users\ronan\Desktop\Rich_Applictions\Kidnaper\Kidnaper\bin\Debug\Kidnaper.pdb
+C:\Users\ronan\Desktop\Rich_Applictions\Kidnaper\Kidnaper\obj\Debug\Kidnaper.csprojResolveAssemblyReference.cache
+C:\Users\ronan\Desktop\Rich_Applictions\Kidnaper\Kidnaper\obj\Debug\Kidnaper.exe
+C:\Users\ronan\Desktop\Rich_Applictions\Kidnaper\Kidnaper\obj\Debug\Kidnaper.pdb
