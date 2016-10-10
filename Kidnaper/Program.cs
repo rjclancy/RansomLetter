@@ -17,7 +17,7 @@ namespace Kidnaper
             var watch = Stopwatch.StartNew();
 
             //execute method
-            CheckNote(note, paper);
+            checkNote(note, paper);
 
             //stop stopwatch
             watch.Stop();
@@ -28,7 +28,7 @@ namespace Kidnaper
         }
 
         //check note method(Regular)
-        private static void CheckNote(string note, string paper)
+        private static void checkNote(string note, string paper)
         {           
             var noteList = new List<char>(note);
             var paperList = new List<char>(paper);
